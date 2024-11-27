@@ -1,0 +1,27 @@
+{
+  "module": {
+    "hugoVersion": {
+      "min": "0.115.0"
+    },
+    "imports": [
+      {
+        "ignoreConfig": true,
+        "ignoreImports": true,
+        "noMounts": true,
+        "path": "github.com/mdfriday/theme-long-teng"
+      },
+      {
+        "ignoreConfig": true,
+        "ignoreImports": true,
+        "noMounts": true,
+        "path": "github.com/mdfriday/theme-xiang-yun"
+      },
+      {
+        "ignoreConfig": true,
+        "ignoreImports": true,
+        "noMounts": true,
+        "path": "github.com/mdfriday/theme-manual-of-me"
+      }
+    ]
+  }
+}
